@@ -1,0 +1,13 @@
+/ *!
+ * IE10 corte janela de exibição para Superfície / desktop Windows 8 bug
+ * Direitos autorais 2014-2015 Twitter, Inc.
+ * Licenciado sob MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+ * /
+
+/ *
+ * Consulte o Guia docs em curso para obter mais informações:
+ * http://getbootstrap.com/getting-started/#support-ie10-width
+ * /
+@ -ms-Viewport {width: Dispositivo de largura; }
+@ -o-Viewport {width: Dispositivo de largura; }
+@viewport {width: Dispositivo de largura; }

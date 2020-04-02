@@ -1,0 +1,18 @@
+body {
+  padding-top: 70px;
+  padding-bottom: 30px;
+}
+
+.theme-suspenso .dropdown-menu {
+  posição: estático;
+  display: block;
+  margin-bottom: 20px;
+}
+
+.theme-vitrine> p> .btn {
+  margin: 5px 0;
+}
+
+.theme-vitrine .navbar .container {
+  width: auto;
+}
